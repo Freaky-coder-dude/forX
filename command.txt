@@ -1,4 +1,4 @@
 wget -O "Xray-linux-64.zip" "https://github.com/XTLS/Xray-core/releases/download/v25.12.2/Xray-linux-64.zip"
 unzip Xray-linux-64.zip
 # List the contents of the directory to verify
-!ls -F xray_core/
+ls -F *
